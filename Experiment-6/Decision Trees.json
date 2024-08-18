@@ -1,0 +1,1 @@
+{"Train Accuracy":0.9009661836,"Test Accuracy":0.7463768116,"Train F1":0.8,"Test F1":0.4776119403,"Best Score":0.7898912724,"Best Params":{"criterion":"entropy","max_depth":10,"max_features":"sqrt","min_samples_leaf":1,"min_samples_split":2,"splitter":"best"}}
