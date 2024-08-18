@@ -1,0 +1,1 @@
+{"Train Accuracy":0.9682539683,"Test Accuracy":0.8288288288,"Train F1":0.93,"Test F1":0.612244898,"Best Score":0.5347434391,"Best Params":{"C":100,"decision_function_shape":"ovo","gamma":0.01,"kernel":"rbf"}}

@@ -1,0 +1,1 @@
+{"Train Accuracy":1.0,"Test Accuracy":0.8313253012,"Train F1":1.0,"Test F1":0.5,"Best Score":0.7795466896,"Best Params":{"algorithm":"auto","leaf_size":5,"n_neighbors":13,"p":1,"weights":"distance"}}

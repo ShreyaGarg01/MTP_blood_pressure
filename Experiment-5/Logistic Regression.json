@@ -1,0 +1,1 @@
+{"Train Accuracy":0.770531401,"Test Accuracy":0.7898550725,"Train F1":0.1121495327,"Test F1":0.1212121212,"Best Score":0.7198068087,"Best Params":{"C":0.1,"penalty":"l1","solver":"saga"}}

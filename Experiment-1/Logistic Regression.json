@@ -1,0 +1,1 @@
+{"Train Accuracy":0.7755102041,"Test Accuracy":0.7837837838,"Train F1":0.1391304348,"Test F1":0.1428571429,"Best Score":0.7153404197,"Best Params":{"C":0.1,"penalty":"l1","solver":"liblinear"}}

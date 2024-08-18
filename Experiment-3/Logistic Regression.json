@@ -1,0 +1,1 @@
+{"Train Accuracy":0.8911564626,"Test Accuracy":0.7837837838,"Train F1":0.7525773196,"Test F1":0.5384615385,"Best Score":0.469252166,"Best Params":{"C":1000,"penalty":"l2","solver":"newton-cholesky"}}
