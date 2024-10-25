@@ -1,1 +1,0 @@
-{"Train Accuracy":0.7227979275,"Test Accuracy":0.656626506,"Train F1":0.5992509363,"Test F1":0.4864864865,"Best Score":0.7435534091,"Best Params":{"alpha":5,"fit_intercept":false,"positive":false,"solver":"lsqr"}}

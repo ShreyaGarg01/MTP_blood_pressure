@@ -1,1 +1,0 @@
-{"Train Accuracy":1.0,"Test Accuracy":0.847826087,"Train F1":1.0,"Test F1":0.5714285714,"Best Score":0.8603905597,"Best Params":{"criterion":"friedman_mse","learning_rate":0.1,"loss":"exponential","max_depth":5,"n_estimators":100}}

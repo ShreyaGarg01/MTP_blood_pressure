@@ -1,6 +1,9 @@
 # Blood Pressure Prediction
 
-## Binary Classification
-* Class 0 (Normal Range): [90, 140]
-* Class 1 (Abnormal Range)
+## Binary Classification for Systolic BP
+
+| Class    | Type | Value |
+| -------- | ------- | ---|
+| 0  | Normal   | [90, 140] |
+| 1  | High     | > 140 |
 

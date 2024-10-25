@@ -1,1 +1,0 @@
-{"Train Accuracy":1.0,"Test Accuracy":0.8738738739,"Train F1":1.0,"Test F1":0.6818181818,"Best Score":0.6755505786,"Best Params":{"alpha":0,"gamma":0.001,"lambda":0,"learning_rate":1.0,"n_estimators":150}}

@@ -1,1 +1,0 @@
-{"Train Accuracy":1.0,"Test Accuracy":0.8108108108,"Train F1":1.0,"Test F1":0.4324324324,"Best Score":0.5068451998,"Best Params":{"criterion":"gini","max_depth":20,"max_features":"sqrt","min_samples_leaf":1,"min_samples_split":2,"n_estimators":150}}

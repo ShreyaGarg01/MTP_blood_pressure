@@ -1,1 +1,0 @@
-{"Train Accuracy":0.7755102041,"Test Accuracy":0.7747747748,"Train F1":0.4974619289,"Test F1":0.4680851064,"Best Score":0.3609519617,"Best Params":{"C":0.1,"loss":"hinge"}}
